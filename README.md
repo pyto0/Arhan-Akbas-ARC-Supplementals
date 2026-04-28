@@ -1,2 +1,1 @@
-# ARC-APPLICATION
-ARC Application
+# ARC Application
