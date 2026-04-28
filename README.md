@@ -33,6 +33,7 @@ Pictures of your project.
 ##  License
 
 MIT License
+
 Copyright (c) 2026 Arhan Akbaş
 
 https://mit-license.org/
