@@ -31,4 +31,8 @@ Add important resources here
 Pictures of your project.
 
 ##  License
-Add a license here, or a link to it.
+
+MIT License
+Copyright (c) 2026 Arhan Akbaş
+
+https://mit-license.org/
