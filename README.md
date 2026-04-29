@@ -7,7 +7,6 @@
 - [FAQ](#faq)
 - [Resources](#resources)
 - [Gallery](#gallery)
-- [License](#license)
 
 ## About
 Add a detailed introduction about the project here, everything you want the reader to know.
@@ -29,11 +28,3 @@ Add important resources here
 
 ##  Gallery
 Pictures of your project.
-
-##  License
-
-MIT License
-
-Copyright (c) 2026 Arhan Akbaş
-
-https://mit-license.org/
