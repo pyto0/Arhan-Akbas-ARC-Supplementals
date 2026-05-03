@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 332.39227 132.28346"
+   width="332.39227"
+   height="132.28346"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- Generator: Adobe Illustrator 30.3.0, SVG Export Plug-In . SVG Version: 2.1.3 Build 182)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        fill: #ddd6d3;
+      }
+
+      .st1 {
+        fill: #c1baae;
+      }
+
+      .st2 {
+        fill: #7b776c;
+      }
+
+      .st3 {
+        fill: none;
+        stroke: #c1baae;
+        stroke-miterlimit: 10;
+        stroke-width: .3px;
+      }
+
+      .st4 {
+        fill: #808083;
+      }
+
+      .st5 {
+        fill: #cfd2d3;
+      }
+
+      .st6 {
+        fill: #e8e2d0;
+      }
+
+      .st7 {
+        fill: #dfd6c8;
+      }
+
+      .st8 {
+        fill: #b2a696;
+      }
+    </style>
+  </defs>
+  <g
+     id="Main_Layer"
+     transform="translate(0.02000896)">
+    <g
+       id="g13"
+       transform="scale(1.1649682,1.5581091)">
+      <rect
+         class="st0"
+         x="168.10001"
+         width="7.5999999"
+         height="58.200001"
+         id="rect1"
+         y="0" />
+      <polygon
+         class="st7"
+         points="70,1.3 216.3,1.3 216.3,78.4 190.5,78.4 185.8,57 100.6,57 95.8,78.4 70,78.4 "
+         id="polygon1" />
+      <rect
+         class="st0"
+         x="112.4"
+         y="0.2"
+         width="7.5999999"
+         height="58.200001"
+         id="rect2" />
+      <path
+         class="st1"
+         d="m 125.7,12.9 h 36.6 c 1,0 1.9,0.8 1.9,1.8 v 29.2 c 0,1 -0.8,1.8 -1.9,1.8 h -36.6 c -1,0 -1.9,-0.8 -1.9,-1.8 V 14.7 c 0,-1 0.8,-1.8 1.9,-1.8"
+         id="path2" />
+      <line
+         class="st3"
+         x1="182.60001"
+         y1="57"
+         x2="182.60001"
+         y2="1.3"
+         id="line2" />
+      <line
+         class="st3"
+         x1="103.3"
+         y1="57"
+         x2="103.3"
+         y2="1.3"
+         id="line3" />
+      <path
+         class="st7"
+         d="M 127.1,14.1 H 161 c 0.9,0 1.7,0.8 1.7,1.7 v 27 c 0,0.9 -0.8,1.7 -1.7,1.7 h -33.9 c -0.9,0 -1.7,-0.8 -1.7,-1.7 v -27 c 0,-0.9 0.8,-1.7 1.7,-1.7"
+         id="path3" />
+      <rect
+         class="st8"
+         x="214.3"
+         y="2.5"
+         width="43.900002"
+         height="26.799999"
+         id="rect3" />
+      <path
+         class="st2"
+         d="m 254,11.9 h 4.2 v 8.7 H 254 c -1.7,0 -3.1,-1.4 -3.1,-3.1 V 15 c 0,-1.7 1.4,-3.1 3.1,-3.1"
+         id="path4" />
+      <path
+         class="st5"
+         d="m 265.6,21.2 h -7.5 v 63.7 h 7.5 c 1.6,0 2.9,-1.3 2.9,-2.9 V 24.1 c 0,-1.6 -1.3,-2.9 -2.9,-2.9"
+         id="path5" />
+      <path
+         class="st4"
+         d="m 216.2,84.9 h 40.2 c 1,0 1.8,-0.8 1.8,-1.8 V 31.2 c 0,-1 -0.8,-1.9 -1.8,-1.9 h -40.2 c -1,0 -1.8,0.8 -1.8,1.9 v 51.9 c 0,1 0.8,1.8 1.8,1.8"
+         id="path6" />
+      <path
+         class="st6"
+         d="m 242.9,37.2 c 0,-0.8 0.6,-1.4 1.4,-1.4 0.8,0 1.4,0.6 1.4,1.4 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4"
+         id="path7" />
+      <path
+         class="st6"
+         d="m 228.1,37.2 c 0,-0.8 0.6,-1.4 1.4,-1.4 0.8,0 1.4,0.6 1.4,1.4 0,0.8 -0.6,1.4 -1.4,1.4 -0.8,0 -1.4,-0.6 -1.4,-1.4"
+         id="path8" />
+      <rect
+         class="st8"
+         x="27.6"
+         y="2.5"
+         width="44.400002"
+         height="26.799999"
+         id="rect8" />
+      <path
+         class="st2"
+         d="m 31.8,11.9 h -4.3 v 8.7 h 4.3 c 1.7,0 3.1,-1.4 3.1,-3.1 V 15.1 C 34.9,13.4 33.5,12 31.8,12"
+         id="path9" />
+      <path
+         class="st5"
+         d="m 20,21.2 h 7.6 V 84.9 H 20 c -1.6,0 -2.9,-1.3 -2.9,-2.9 V 24.2 c 0,-1.6 1.3,-2.9 2.9,-2.9"
+         id="path10" />
+      <rect
+         class="st5"
+         y="33.336063"
+         width="17.200001"
+         height="9.6945057"
+         id="rect10-0"
+         x="0.0017953881"
+         style="fill:#cfd2d3;stroke-width:0.705092" />
+      <rect
+         class="st5"
+         y="23.997677"
+         width="17.200001"
+         height="9.6945057"
+         id="rect10-0-0"
+         x="-0.017175546"
+         style="fill:#cfd2d3;stroke-width:0.705092" />
+      <rect
+         class="st5"
+         y="33.105785"
+         width="17.200001"
+         height="9.6945057"
+         id="rect10-0-6"
+         x="268.10587"
+         style="fill:#cfd2d3;stroke-width:0.705092" />
+      <rect
+         class="st5"
+         y="23.767401"
+         width="17.200001"
+         height="9.6945057"
+         id="rect10-0-0-4"
+         x="268.08688"
+         style="fill:#cfd2d3;stroke-width:0.705092" />
+      <path
+         class="st4"
+         d="M 70.1,84.9 H 29.4 c -1,0 -1.9,-0.8 -1.9,-1.9 V 31.1 c 0,-1 0.8,-1.9 1.9,-1.9 h 40.7 c 1,0 1.9,0.8 1.9,1.9 V 83 c 0,1 -0.8,1.9 -1.9,1.9"
+         id="path11" />
+      <path
+         class="st6"
+         d="m 43.3,37.2 c 0,-0.8 -0.7,-1.4 -1.4,-1.4 -0.7,0 -1.4,0.6 -1.4,1.4 0,0.8 0.7,1.4 1.4,1.4 0.7,0 1.4,-0.6 1.4,-1.4"
+         id="path12" />
+      <path
+         class="st6"
+         d="m 58.2,37.2 c 0,-0.8 -0.7,-1.4 -1.4,-1.4 -0.7,0 -1.4,0.6 -1.4,1.4 0,0.8 0.7,1.4 1.4,1.4 0.7,0 1.4,-0.6 1.4,-1.4"
+         id="path13" />
+    </g>
+  </g>
+</svg>
